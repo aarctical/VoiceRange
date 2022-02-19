@@ -19,3 +19,5 @@ https://i.imgur.com/8OB3oio.png
 
 # Download link:
 https://forum.cfx.re/t/release-free-voice-range-system/4300739
+
+Original script author: Andy, client.lua forked by aarctical
