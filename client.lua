@@ -127,15 +127,15 @@ Citizen.CreateThread(function()
                 SetTextEntry("STRING")
                 AddTextComponentString("S")
                 DrawText(config.x2, config.y2)
-            elseif CurrentChosenDistance == 1 and isTalking == true then
+            elseif CurrentChosenDistance == 1 and isTalking then
                 SetTextEntry("STRING")
                 AddTextComponentString("~b~W")
                 DrawText(config.x2, config.y2)
-            elseif CurrentChosenDistance == 2 and isTalking == true then
+            elseif CurrentChosenDistance == 2 and isTalking then
                 SetTextEntry("STRING")
                 AddTextComponentString("~b~N")
                 DrawText(config.x2, config.y2)
-            elseif CurrentChosenDistance == 3 and isTalking == true then
+            elseif CurrentChosenDistance == 3 and isTalking then
                 SetTextEntry("STRING")
                 AddTextComponentString("~b~S")
                 DrawText(config.x2, config.y2)
